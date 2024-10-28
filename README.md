@@ -1,5 +1,5 @@
 # Electrical system graph
-#### Video Demo:  <URL HERE>
+#### Video Demo:  <https://youtu.be/UKXgQaKJ2jM?si=DTUvtovYtUNqQDnH>
 #### Description:
 This project involves creating a Python script to generate a simplified "Single Line Diagram". To accomplish this, the script generates a diagram based on a list of substations and lines extracted from a CSV file. In the diagram, the substations are represented as nodes and the electrical lines are represented as lines. It also includes a label with the percentage of the line's loading level.
 To run the script is necesary to type "python graficaSis.py FILENAME.csv" to the terminal, where FILENAME is a CSV file containing the data to graph.

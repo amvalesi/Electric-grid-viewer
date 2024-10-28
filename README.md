@@ -9,7 +9,9 @@ The script uses the Pygraphviz library that requires Python, Graphviz, and a C/C
 For Pygraphviz documentation [check here.](https://pygraphviz.github.io/documentation/latest/)
 
 ## Introduction
-In some branches of electrical engineering, engineers need to make future projections of the behavior of the electrical power system when considering future expansion works, such as new substations, new generating plants or new loads. The results sought from these studies can be both economic and technical. For the latter case, the aim is to evaluate the stability of the system or if the system becomes congested with new consumption or new generation.The programs used for calculations and system modeling generally generate a large amount of data and it is often possible to visualize the results graphically, but when many simulations are required or a specific result needs to be verified, these tools are not the ones needed. Due to the above, the idea of ​​developing a tool that graphs the system in a simpler way arises.
+In certain areas of electrical engineering, engineers must project the future behavior of electrical power systems to plan for upcoming expansions, such as new substations, generating plants, or loads. These studies aim to assess both economic and technical outcomes. On the technical side, the focus is on evaluating system stability and determining whether new consumption or generation will cause congestion.
+
+The software used for system modeling and calculations typically generates large amounts of data, often with graphical visualizations. However, these tools can be less practical when many simulations are required or when specific results need to be verified quickly. This has led to the idea of developing a simpler tool that can graphically represent the system more efficiently.
 
 ## Project's files
 The project consists of one Python script, one CSV file and it will generate PNG files as required

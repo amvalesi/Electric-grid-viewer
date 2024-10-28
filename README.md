@@ -13,6 +13,8 @@ In certain areas of electrical engineering, engineers must project the future be
 
 The software used for system modeling and calculations typically generates large amounts of data, often with graphical visualizations. However, these tools can be less practical when many simulations are required or when specific results need to be verified quickly. This has led to the idea of developing a simpler tool that can graphically represent the system more efficiently.
 
+In electrical engineering context, this tool is meant to "draw" a simplified "Single Line Diagram" from data previously organized in a CSV file.
+
 ## Project's files
 The project consists of one Python script, one CSV file and it will generate PNG files as required
 
